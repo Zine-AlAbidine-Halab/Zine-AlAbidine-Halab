@@ -42,6 +42,18 @@ A web application designed to help users choose a laptop according to their need
 
 🔗 [View Project](https://github.com/Zine-AlAbidine-Halab/aide-decision-web)
 
+### 🛡️ NET·CONTROL — Network Monitoring & Security
+
+A Python and Flask-based network monitoring application featuring real-time traffic analysis, ARP anomaly detection, security alerts, and an interactive administration dashboard.
+
+🔗 [View Project](https://github.com/Zine-AlAbidine-Halab/NET-CONTROL)
+
+### 🎟️ CureEvents — Event Management System
+
+A PHP and MySQL web application for managing events, exploring event details, viewing statistics, and handling event administration through a secure dashboard.
+
+🔗 [View Project](https://github.com/Zine-AlAbidine-Halab/CureEvents)
+
 ## 🎯 My Goals
 
 - Strengthen my software development skills
